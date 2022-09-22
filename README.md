@@ -1,4 +1,4 @@
-# NLW eSports
+# Agregrador de Links - eSports
 
 ![preview](./.github/preview.png)
 
